@@ -21,6 +21,7 @@ public class ProgressBarActivity extends AppCompatActivity {
         barraCurva.setVisibility(View.GONE);
 
         //TESTE DO GIT
+        //ALTERACAO NO GIT
     }
 
 
