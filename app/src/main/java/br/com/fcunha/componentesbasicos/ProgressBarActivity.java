@@ -19,6 +19,8 @@ public class ProgressBarActivity extends AppCompatActivity {
         barraCurva = findViewById(R.id.pbCurva);
 
         barraCurva.setVisibility(View.GONE);
+
+        //TESTE DO GIT
     }
 
 
